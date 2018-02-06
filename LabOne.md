@@ -1,4 +1,4 @@
-# First Lab: Setup
+# Lab: Setup
 
 ## Git
 Git is a distributed version control system designed to facilitate modern, multi-party development.
@@ -231,3 +231,5 @@ Download Hadoop and run the example single-cluster grep application.
 <https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html>
 
 You might need to install oracle java, or to ensure that the ports are listening correctly.
+The following tutorial might be helpful:
+https://www.digitalocean.com/community/tutorials/how-to-install-hadoop-in-stand-alone-mode-on-ubuntu-16-04
