@@ -223,7 +223,7 @@ AWS has a free trial tier, please sign up for it:
 
 ## Send your details
 
-Please email your gitlab username and amazon AWS username to [alessandra.mileo@dcu.ie](mailto:alessandra.mileo@dcu.ie)
+Please email your gitlab username and amazon AWS username to [alessandra.mileo@dcu.ie](mailto:musfira.jilani@dcu.ie)
 
 ## Bonus: Set up Hadoop
 
